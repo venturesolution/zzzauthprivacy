@@ -1,0 +1,326 @@
+[
+  {
+    "country": "Korea",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/kr.svg"
+  },
+  {
+    "country": "United States",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/us.svg"
+  },
+  {
+    "country": "United Kingdom",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/uk.svg"
+  },
+  {
+    "country": "Japan",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/jp.svg"
+  },
+  {
+    "country": "Malaysia",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/my.svg"
+  },
+  {
+    "country": "France",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/fr.svg"
+  },
+  {
+    "country": "Germany",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/de.svg"
+  },
+  {
+    "country": "Spain",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/es.svg"
+  },
+  {
+    "country": "China",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/cn.svg"
+  },
+  {
+    "country": "Italy",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/it.svg"
+  },
+  {
+    "country": "Brazil",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/br.svg"
+  },
+  {
+    "country": "Russia",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/ru.svg"
+  },
+  {
+    "country": "Russian",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/ru.svg"
+  },
+  {
+    "country": "Canada",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/ca.svg"
+  },
+  {
+    "country": "Australia",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/au.svg"
+  },
+  {
+    "country": "India",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/in.svg"
+  },
+  {
+    "country": "Thailand",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/th.svg"
+  },
+  {
+    "country": "Singapore",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/sg.svg"
+  },
+  {
+    "country": "Vietnam",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/vn.svg"
+  },
+  {
+    "country": "Viet Nam",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/vn.svg"
+  },
+  {
+    "country": "Switzerland",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/ch.svg"
+  },
+  {
+    "country": "Sweden",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/se.svg"
+  },
+  {
+    "country": "Finland",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/fi.svg"
+  },
+  {
+    "country": "Mexico",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/mx.svg"
+  },
+  {
+    "country": "Georgia",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/ge.svg"
+  },
+  {
+    "country": "Netherlands",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/nl.svg"
+  },
+  {
+    "country": "Turkey",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/tr.svg"
+  },
+  {
+    "country": "Belgium",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/be.svg"
+  },
+  {
+    "country": "Poland",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/pl.svg"
+  },
+  {
+    "country": "Portugal",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/pt.svg"
+  },
+  {
+    "country": "Argentina",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/ar.svg"
+  },
+  {
+    "country": "Chile",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/cl.svg"
+  },
+  {
+    "country": "Indonesia",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/id.svg"
+  },
+  {
+    "country": "Colombia",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/co.svg"
+  },
+  {
+    "country": "Romania",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/ro.svg"
+  },
+  {
+    "country": "Israel",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/il.svg"
+  },
+  {
+    "country": "Taiwan",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/tw.svg"
+  },
+  {
+    "country": "Hong Kong",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/hk.svg"
+  },
+  {
+    "country": "Denmark",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/dk.svg"
+  },
+  {
+    "country": "Philippines",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/ph.svg"
+  },
+  {
+    "country": "Austria",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/at.svg"
+  },
+  {
+    "country": "Peru",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/pe.svg"
+  },
+  {
+    "country": "South Africa",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/za.svg"
+  },
+  {
+    "country": "Ukraine",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/ua.svg"
+  },
+  {
+    "country": "Norway",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/no.svg"
+  },
+  {
+    "country": "Czech Republic",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/cz.svg"
+  },
+  {
+    "country": "Greece",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/gr.svg"
+  },
+  {
+    "country": "Ireland",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/ie.svg"
+  },
+  {
+    "country": "England",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/gb-eng.svg"
+  },
+  {
+    "country": "Jamaica",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/jm.svg"
+  },
+  {
+    "country": "New Zealand",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/nz.svg"
+  },
+  {
+    "country": "Hungary",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/hu.svg"
+  },
+  {
+    "country": "Egypt",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/eg.svg"
+  },
+  {
+    "country": "Iceland",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/is.svg"
+  },
+  {
+    "country": "Lithuania",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/lt.svg"
+  },
+  {
+    "country": "Bangladesh",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/bd.svg"
+  },
+  {
+    "country": "Iraq",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/iq.svg"
+  },
+  {
+    "country": "Iran",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/ir.svg"
+  },
+  {
+    "country": "Qatar",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/qa.svg"
+  },
+  {
+    "country": "Venezuela",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/ve.svg"
+  },
+  {
+    "country": "Cambodia",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/kh.svg"
+  },
+  {
+    "country": "Slovakia",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/sk.svg"
+  },
+  {
+    "country": "Slovenia",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/si.svg"
+  },
+  {
+    "country": "Kazakhstan",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/kz.svg"
+  },
+  {
+    "country": "Myanmar",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/mm.svg"
+  },
+  {
+    "country": "Pakistan",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/pk.svg"
+  },
+  {
+    "country": "Bulgaria",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/bg.svg"
+  },
+  {
+    "country": "United Arab Emirates",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/ae.svg"
+  },
+  {
+    "country": "Syrian Arab Republic",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/sy.svg"
+  },
+  {
+    "country": "Saudi Arabia",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/sa.svg"
+  },
+  {
+    "country": "Guam",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/gu.svg"
+  },
+  {
+    "country": "Ecuador",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/ec.svg"
+  },
+  {
+    "country": "Seychelles",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/sc.svg"
+  },
+  {
+    "country": "Suriname",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/sr.svg"
+  },
+  {
+    "country": "Azerbaijan",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/az.svg"
+  },
+  {
+    "country": "Mongolia",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/mn.svg"
+  },
+  {
+    "country": "Latvia",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/lv.svg"
+  },
+  {
+    "country": "Moldova",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/md.svg"
+  },
+  {
+    "country": "Costa Rica",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/cr.svg"
+  },
+  {
+    "country": "South Korea",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/kr.svg"
+  },
+  {
+    "country": "Belarus",
+    "flag": "https://hatscripts.github.io/circle-flags/flags/by.svg"
+  }
+]
